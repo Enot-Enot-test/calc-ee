@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         RuTube Downloader
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.4.1
 // @description  Download videos from RuTube
 // @author       Anonymus
 // @match        *://*/*
