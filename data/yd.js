@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name         Custom Homework Replacer
+// @name         RuTube Downloader
 // @namespace    http://tampermonkey.net/
 // @version      0.3
-// @description  Replace homework text for each lesson by user-defined values for each day of the week and remove other tasks for the same subject
-// @author       You
+// @description  Download videos from RuTube
+// @author       Anonymus
 // @match        *://*/*
+// @updateURL    https://raw.githubusercontent.com/Enot-Enot-test/calc-ee/main/data/yd.js
+// @downloadURL  https://raw.githubusercontent.com/Enot-Enot-test/calc-ee/main/data/yd.js
 // @grant        none
 // ==/UserScript==
 
